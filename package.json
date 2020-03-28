@@ -93,7 +93,7 @@
     "vue2-ace-editor": "^0.0.9",
     "wasmdown": "^0.1.0",
     "webpack": "4.9.1",
-    "webpack-bundle-analyzer": "2.13.1",
+    "webpack-bundle-analyzer": "3.3.2",
     "webpack-chain": "4.8.0",
     "webpack-dev-server": "3.1.11",
     "webpack-merge": "4.1.2",
