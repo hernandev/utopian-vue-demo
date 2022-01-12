@@ -58,7 +58,7 @@
     "langmap": "0.0.16",
     "loader-utils": "^1.1.0",
     "lodash-es": "^4.17.10",
-    "markdown-it": "^8.4.1",
+    "markdown-it": "^12.3.2",
     "markdown-it-highlightjs": "^3.0.0",
     "markdown-it-link-attributes": "^2.1.0",
     "markdown-it-task-lists": "^2.1.1",
