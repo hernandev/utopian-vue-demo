@@ -40,7 +40,7 @@
     "brace": "^0.11.1",
     "commonmark": "^0.28.1",
     "css-loader": "^0.28.11",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "dexie-observable": "^1.0.0-beta.4",
     "dotenv": "^5.0.1",
     "embed-js": "^5.0.3",
